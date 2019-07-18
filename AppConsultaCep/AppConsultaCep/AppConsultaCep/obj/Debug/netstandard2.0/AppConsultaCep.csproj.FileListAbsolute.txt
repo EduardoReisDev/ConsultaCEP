@@ -1,0 +1,14 @@
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\bin\Debug\netstandard2.0\AppConsultaCep.deps.json
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\bin\Debug\netstandard2.0\AppConsultaCep.dll
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.csprojAssemblyReference.cache
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.AssemblyInfo.cs
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\bin\Debug\netstandard2.0\ref\AppConsultaCep.dll
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\bin\Debug\netstandard2.0\AppConsultaCep.pdb
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.dll
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\ref\AppConsultaCep.dll
+C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.pdb
