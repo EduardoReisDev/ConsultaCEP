@@ -12,3 +12,17 @@ C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppC
 C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.dll
 C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\ref\AppConsultaCep.dll
 C:\Users\Eduardo\Documents\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.pdb
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\bin\Debug\netstandard2.0\AppConsultaCep.deps.json
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\bin\Debug\netstandard2.0\AppConsultaCep.dll
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\bin\Debug\netstandard2.0\ref\AppConsultaCep.dll
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\bin\Debug\netstandard2.0\AppConsultaCep.pdb
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.csprojAssemblyReference.cache
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.csproj.CoreCompileInputs.cache
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.AssemblyInfoInputs.cache
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.AssemblyInfo.cs
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.dll
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\ref\AppConsultaCep.dll
+C:\GitHub\ConsultaCEP\AppConsultaCep\AppConsultaCep\AppConsultaCep\obj\Debug\netstandard2.0\AppConsultaCep.pdb

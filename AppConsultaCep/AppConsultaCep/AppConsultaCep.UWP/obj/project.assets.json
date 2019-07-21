@@ -8111,11 +8111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.UWP\\AppConsultaCep.UWP.csproj",
+      "projectUniqueName": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.UWP\\AppConsultaCep.UWP.csproj",
       "projectName": "AppConsultaCep.UWP",
-      "projectPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.UWP\\AppConsultaCep.UWP.csproj",
+      "projectPath": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.UWP\\AppConsultaCep.UWP.csproj",
       "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.UWP\\obj\\",
+      "outputPath": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8137,8 +8137,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj": {
-              "projectPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj"
+            "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj": {
+              "projectPath": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj"
             }
           }
         }

@@ -2045,11 +2045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.Android\\AppConsultaCep.Android.csproj",
+      "projectUniqueName": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.Android\\AppConsultaCep.Android.csproj",
       "projectName": "AppConsultaCep.Android",
-      "projectPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.Android\\AppConsultaCep.Android.csproj",
+      "projectPath": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.Android\\AppConsultaCep.Android.csproj",
       "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.Android\\obj\\",
+      "outputPath": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2070,8 +2070,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj": {
-              "projectPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj"
+            "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj": {
+              "projectPath": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj"
             }
           }
         }

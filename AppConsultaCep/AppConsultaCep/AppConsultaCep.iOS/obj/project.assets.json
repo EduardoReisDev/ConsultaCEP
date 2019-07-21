@@ -1080,11 +1080,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.iOS\\AppConsultaCep.iOS.csproj",
+      "projectUniqueName": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.iOS\\AppConsultaCep.iOS.csproj",
       "projectName": "AppConsultaCep.iOS",
-      "projectPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.iOS\\AppConsultaCep.iOS.csproj",
+      "projectPath": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.iOS\\AppConsultaCep.iOS.csproj",
       "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.iOS\\obj\\",
+      "outputPath": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1105,8 +1105,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj": {
-              "projectPath": "C:\\Users\\Eduardo\\Documents\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj"
+            "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj": {
+              "projectPath": "C:\\GitHub\\ConsultaCEP\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep\\AppConsultaCep.csproj"
             }
           }
         }
