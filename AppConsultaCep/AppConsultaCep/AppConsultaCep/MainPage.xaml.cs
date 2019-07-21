@@ -30,7 +30,7 @@ namespace AppConsultaCep
                     Endereco end = ViaCepServico.BuscarEnderecoViaCep(cep);
                     if (end != null)
                     {
-                        RESULTADO.Text = string.Format("Endereço: {2} de {3} {0}, {1}", end.localidade, end.uf, end.logradouro, end.bairro);
+                        RESULTADO.Text = string.Format("Endereço: {0}, {1}, {2}, {3}", end.localidade, end.uf, end.logradouro, end.bairro);
                     }
 
                     else
